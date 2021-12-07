@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T11:18:31.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="4Z8fzeO6I6vZb-KoQXD8" version="15.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-07T11:34:59.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NrodvnrrtrPicPw4ID9A" version="15.9.1" type="github" pages="2">
   <diagram id="Mz8RJUie0_P0IeHwaPOV" name="Overview">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,7 +96,16 @@
         <mxCell id="cv6NqyUL6TLIJ_gePEv1-1" value="Finecorsa chiusi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="cv6NqyUL6TLIJ_gePEv1-0">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cv6NqyUL6TLIJ_gePEv1-2" value="Tempo movimento non superato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="cv6NqyUL6TLIJ_gePEv1-0">
+        <mxCell id="cv6NqyUL6TLIJ_gePEv1-2" value="Tempo movimento superato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="cv6NqyUL6TLIJ_gePEv1-0">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cv6NqyUL6TLIJ_gePEv1-3" value="Feedback Estrazione" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;flipV=0;" vertex="1" parent="nn-isAHJEz2h1cY-OZss-1">
+          <mxGeometry x="240" y="160" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cv6NqyUL6TLIJ_gePEv1-4" value="Finecorsa aperti" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="cv6NqyUL6TLIJ_gePEv1-3">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cv6NqyUL6TLIJ_gePEv1-5" value="Tempo movimento superato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="cv6NqyUL6TLIJ_gePEv1-3">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
