@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T11:10:19.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5HJPcIRBaYEImKQ1fzRL" version="15.9.1" type="github">
-  <diagram id="Mz8RJUie0_P0IeHwaPOV" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-12-07T11:18:31.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="4Z8fzeO6I6vZb-KoQXD8" version="15.9.1" type="github" pages="2">
+  <diagram id="Mz8RJUie0_P0IeHwaPOV" name="Overview">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -63,6 +63,41 @@
         </mxCell>
         <mxCell id="-xy_C7aA8h8rhrmjOflK-21" value="Loop Corrente ON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="T-CoR5BuuRgQXcovfUJb" name="Detail">
+    <mxGraphModel dx="599" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="nn-isAHJEz2h1cY-OZss-0" />
+        <mxCell id="nn-isAHJEz2h1cY-OZss-1" parent="nn-isAHJEz2h1cY-OZss-0" />
+        <mxCell id="4t1swBlkQKmBpnI89pnt-4" value="Inserimento" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;flipV=0;" vertex="1" parent="nn-isAHJEz2h1cY-OZss-1">
+          <mxGeometry x="40" y="40" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4t1swBlkQKmBpnI89pnt-5" value="Inizio tempo movimento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4t1swBlkQKmBpnI89pnt-4">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4t1swBlkQKmBpnI89pnt-6" value="Cilindri avanti" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4t1swBlkQKmBpnI89pnt-4">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4t1swBlkQKmBpnI89pnt-9" value="Estrazione" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;flipV=0;" vertex="1" parent="nn-isAHJEz2h1cY-OZss-1">
+          <mxGeometry x="40" y="160" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4t1swBlkQKmBpnI89pnt-10" value="Inizio tempo movimento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4t1swBlkQKmBpnI89pnt-9">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4t1swBlkQKmBpnI89pnt-11" value="Cilindri indietro" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4t1swBlkQKmBpnI89pnt-9">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cv6NqyUL6TLIJ_gePEv1-0" value="Feedback Inserimento" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;flipV=0;" vertex="1" parent="nn-isAHJEz2h1cY-OZss-1">
+          <mxGeometry x="240" y="40" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cv6NqyUL6TLIJ_gePEv1-1" value="Finecorsa chiusi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="cv6NqyUL6TLIJ_gePEv1-0">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cv6NqyUL6TLIJ_gePEv1-2" value="Tempo movimento non superato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="cv6NqyUL6TLIJ_gePEv1-0">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
