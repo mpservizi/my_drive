@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "titolo": "Current generator 1",
+    "idCategoriaRisorse": 1,
+    "equipment code": "w8e0001",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "titolo": "Current generator 2",
+    "idCategoriaRisorse": 1,
+    "equipment code": "w8e0002",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "titolo": "Current generator 3",
+    "idCategoriaRisorse": 1,
+    "equipment code": "w8e0003",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "titolo": "Current generator 4",
+    "idCategoriaRisorse": 1,
+    "equipment code": "w8e0004",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "titolo": "Current generator 5",
+    "idCategoriaRisorse": 1,
+    "equipment code": "w8e0005",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "titolo": "Datalogger 1",
+    "idCategoriaRisorse": 9,
+    "equipment code": "w8e0006",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "titolo": "Datalogger 2",
+    "idCategoriaRisorse": 9,
+    "equipment code": "w8e0007",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "titolo": "Datalogger 3",
+    "idCategoriaRisorse": 9,
+    "equipment code": "w8e0008",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "titolo": "Datalogger 4",
+    "idCategoriaRisorse": 9,
+    "equipment code": "w8e0009",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "titolo": "Datalogger 5",
+    "idCategoriaRisorse": 9,
+    "equipment code": "w8e0010",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "titolo": "High voltage 1",
+    "idCategoriaRisorse": 7,
+    "equipment code": "w8e0011",
+    "description": ""
+  },
+  {
+    "id": 12,
+    "titolo": "High voltage 2",
+    "idCategoriaRisorse": 7,
+    "equipment code": "w8e0012",
+    "description": ""
+  },
+  {
+    "id": 13,
+    "titolo": "Glow wire",
+    "idCategoriaRisorse": 10,
+    "equipment code": "w8e0013",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "titolo": "IPx1 & IPx2",
+    "idCategoriaRisorse": 6,
+    "equipment code": "w8e0014",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "titolo": "IPx3 & IPx4",
+    "idCategoriaRisorse": 6,
+    "equipment code": "w8e0015",
+    "description": ""
+  },
+  {
+    "id": 16,
+    "titolo": "IPx5 & IPx6",
+    "idCategoriaRisorse": 6,
+    "equipment code": "w8e0016",
+    "description": ""
+  },
+  {
+    "id": 17,
+    "titolo": "Climatic chamber 1",
+    "idCategoriaRisorse": 5,
+    "equipment code": "w8e0017",
+    "description": ""
+  },
+  {
+    "id": 18,
+    "titolo": "Climatic chamber 2",
+    "idCategoriaRisorse": 5,
+    "equipment code": "w8e0018",
+    "description": ""
+  },
+  {
+    "id": 19,
+    "titolo": "Climatic chamber 3",
+    "idCategoriaRisorse": 5,
+    "equipment code": "w8e0019",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "titolo": "Bending test 1",
+    "idCategoriaRisorse": 11,
+    "equipment code": "w8e0020",
+    "description": ""
+  },
+  {
+    "id": 21,
+    "titolo": "Bending test 2",
+    "idCategoriaRisorse": 11,
+    "equipment code": "w8e0021",
+    "description": ""
+  },
+  {
+    "id": 22,
+    "titolo": "Schuko Ed 2021 temperature rise gauge 1",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0022",
+    "description": "VDE 0620-1:2021"
+  },
+  {
+    "id": 23,
+    "titolo": "Schuko Ed 2021 temperature rise gauge 2",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0023",
+    "description": "VDE 0620-1:2021"
+  },
+  {
+    "id": 24,
+    "titolo": "Schuko Ed 2021 temperature rise gauge 3",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0024",
+    "description": "VDE 0620-1:2021"
+  },
+  {
+    "id": 25,
+    "titolo": "Schuko Ed 2021 temperature rise gauge 4",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0025",
+    "description": "VDE 0620-1:2021"
+  },
+  {
+    "id": 26,
+    "titolo": "Schuko Ed 2021 temperature rise gauge 5",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0026",
+    "description": "VDE 0620-1:2021"
+  },
+  {
+    "id": 27,
+    "titolo": "Schuko Ed 2021 temperature rise gauge 6",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0027",
+    "description": "VDE 0620-1:2021"
+  },
+  {
+    "id": 28,
+    "titolo": "Schuko Ed 2021 temperature rise gauge 7",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0028",
+    "description": "VDE 0620-1:2021"
+  },
+  {
+    "id": 29,
+    "titolo": "Schuko Ed 2021 temperature rise gauge 8",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0029",
+    "description": "VDE 0620-1:2021"
+  },
+  {
+    "id": 30,
+    "titolo": "Schuko Ed 2021 temperature rise gauge 9",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0030",
+    "description": "VDE 0620-1:2021"
+  },
+  {
+    "id": 31,
+    "titolo": "Schuko Ed 2016 temperature rise gauge 1",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0031",
+    "description": "VDE 0620-1:2016"
+  },
+  {
+    "id": 32,
+    "titolo": "Schuko Ed 2016 temperature rise gauge 2",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0032",
+    "description": "VDE 0620-1:2016"
+  },
+  {
+    "id": 33,
+    "titolo": "Schuko Ed 2016 temperature rise gauge 3",
+    "idCategoriaRisorse": 12,
+    "equipment code": "w8e0033",
+    "description": "VDE 0620-1:2016"
+  }
+]

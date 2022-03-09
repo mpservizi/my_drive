@@ -1,0 +1,93 @@
+[
+  {
+    "Id": 1,
+    "Categoria": "Person",
+    "Cap_teorica_giorno": 8,
+    "Cap_giorno": 5,
+    "Giorni_settimana": 5
+  },
+  {
+    "Id": 2,
+    "Categoria": "Current generator",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 12,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 3,
+    "Categoria": "Endurance Socket",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 12,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 4,
+    "Categoria": "Endurance Switch",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 19,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 5,
+    "Categoria": "Climatic chamber",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 23,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 6,
+    "Categoria": "IP test",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 6,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 7,
+    "Categoria": "High voltage",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 5,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 8,
+    "Categoria": "Turnstill",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 6,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 9,
+    "Categoria": "Datalogger",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 12,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 10,
+    "Categoria": "Glow wire",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 6,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 11,
+    "Categoria": "Bending test",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 6,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 12,
+    "Categoria": "Laboratory gauge",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 24,
+    "Giorni_settimana": 7
+  },
+  {
+    "Id": 13,
+    "Categoria": "Laboratory instrument",
+    "Cap_teorica_giorno": 24,
+    "Cap_giorno": 24,
+    "Giorni_settimana": 7
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "Id": 1,
+    "Titolo": "Temperature rise 1h"
+  },
+  {
+    "Id": 2,
+    "Titolo": "Temperature rise 4h"
+  },
+  {
+    "Id": 3,
+    "Titolo": "Endurance socket"
+  },
+  {
+    "Id": 4,
+    "Titolo": "Endurance switch 10A"
+  },
+  {
+    "Id": 5,
+    "Titolo": "Endurance switch 16A"
+  },
+  {
+    "Id": 6,
+    "Titolo": "Ageing test"
+  },
+  {
+    "Id": 7,
+    "Titolo": "Humidity test >IP44"
+  },
+  {
+    "Id": 8,
+    "Titolo": "Humidity test"
+  },
+  {
+    "Id": 9,
+    "Titolo": "Bending test"
+  },
+  {
+    "Id": 10,
+    "Titolo": "Drop voltage 192 cycles"
+  },
+  {
+    "Id": 11,
+    "Titolo": "Turnstill"
+  },
+  {
+    "Id": 12,
+    "Titolo": "Glow wire"
+  },
+  {
+    "Id": 13,
+    "Titolo": "IP test"
+  },
+  {
+    "Id": 14,
+    "Titolo": "Mating test"
+  },
+  {
+    "Id": 15,
+    "Titolo": "Ecoline contact force measuremet"
+  },
+  {
+    "Id": 16,
+    "Titolo": "Drop voltage on wago connector 400h"
+  },
+  {
+    "Id": 17,
+    "Titolo": "Installation test"
+  }
+]

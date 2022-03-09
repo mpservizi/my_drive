@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "idNorma": 9,
+    "parent": 8
+  },
+  {
+    "id": 2,
+    "idNorma": 10,
+    "parent": 8
+  },
+  {
+    "id": 3,
+    "idNorma": 10,
+    "parent": 9
+  },
+  {
+    "id": 4,
+    "idNorma": 11,
+    "parent": 8
+  },
+  {
+    "id": 5,
+    "idNorma": 11,
+    "parent": 9
+  },
+  {
+    "id": 6,
+    "idNorma": 11,
+    "parent": 10
+  },
+  {
+    "id": 7,
+    "idNorma": 12,
+    "parent": 8
+  },
+  {
+    "id": 8,
+    "idNorma": 12,
+    "parent": 9
+  },
+  {
+    "id": 9,
+    "idNorma": 12,
+    "parent": 10
+  },
+  {
+    "id": 10,
+    "idNorma": 12,
+    "parent": 11
+  },
+  {
+    "id": 11,
+    "idNorma": 13,
+    "parent": 8
+  },
+  {
+    "id": 12,
+    "idNorma": 13,
+    "parent": 9
+  },
+  {
+    "id": 13,
+    "idNorma": 13,
+    "parent": 10
+  },
+  {
+    "id": 14,
+    "idNorma": 13,
+    "parent": 11
+  },
+  {
+    "id": 15,
+    "idNorma": 13,
+    "parent": 12
+  },
+  {
+    "id": 16,
+    "idNorma": 14,
+    "parent": 8
+  },
+  {
+    "id": 17,
+    "idNorma": 14,
+    "parent": 9
+  },
+  {
+    "id": 18,
+    "idNorma": 14,
+    "parent": 10
+  },
+  {
+    "id": 19,
+    "idNorma": 14,
+    "parent": 11
+  },
+  {
+    "id": 20,
+    "idNorma": 14,
+    "parent": 12
+  },
+  {
+    "id": 21,
+    "idNorma": 14,
+    "parent": 13
+  },
+  {
+    "id": 22,
+    "idNorma": 15,
+    "parent": 8
+  },
+  {
+    "id": 23,
+    "idNorma": 15,
+    "parent": 9
+  },
+  {
+    "id": 24,
+    "idNorma": 15,
+    "parent": 10
+  },
+  {
+    "id": 25,
+    "idNorma": 15,
+    "parent": 11
+  },
+  {
+    "id": 26,
+    "idNorma": 15,
+    "parent": 12
+  },
+  {
+    "id": 27,
+    "idNorma": 15,
+    "parent": 13
+  },
+  {
+    "id": 28,
+    "idNorma": 15,
+    "parent": 14
+  },
+  {
+    "id": 29,
+    "idNorma": 19,
+    "parent": 18
+  },
+  {
+    "id": 30,
+    "idNorma": 20,
+    "parent": 19
+  },
+  {
+    "id": 31,
+    "idNorma": 20,
+    "parent": 18
+  },
+  {
+    "id": 32,
+    "idNorma": 21,
+    "parent": 20
+  },
+  {
+    "id": 33,
+    "idNorma": 21,
+    "parent": 19
+  },
+  {
+    "id": 34,
+    "idNorma": 21,
+    "parent": 18
+  },
+  {
+    "id": 35,
+    "idNorma": 23,
+    "parent": 22
+  },
+  {
+    "id": 36,
+    "idNorma": 24,
+    "parent": 23
+  },
+  {
+    "id": 37,
+    "idNorma": 24,
+    "parent": 22
+  },
+  {
+    "id": 38,
+    "idNorma": 25,
+    "parent": 24
+  },
+  {
+    "id": 39,
+    "idNorma": 25,
+    "parent": 23
+  },
+  {
+    "id": 40,
+    "idNorma": 25,
+    "parent": 22
+  },
+  {
+    "id": 41,
+    "idNorma": 51,
+    "parent": 25
+  },
+  {
+    "id": 42,
+    "idNorma": 51,
+    "parent": 24
+  },
+  {
+    "id": 43,
+    "idNorma": 51,
+    "parent": 23
+  },
+  {
+    "id": 44,
+    "idNorma": 51,
+    "parent": 22
+  },
+  {
+    "id": 45,
+    "idNorma": 32,
+    "parent": 31
+  },
+  {
+    "id": 46,
+    "idNorma": 38,
+    "parent": 32
+  },
+  {
+    "id": 47,
+    "idNorma": 38,
+    "parent": 31
+  },
+  {
+    "id": 48,
+    "idNorma": 39,
+    "parent": 33
+  }
+]

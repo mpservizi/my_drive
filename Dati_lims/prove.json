@@ -1,0 +1,326 @@
+[
+  {
+    "idProva": 1,
+    "product type": "Switch",
+    "idNorma": 4,
+    "idCategoriaProva": 1,
+    "capitolo": 17.1,
+    "samples qty": 3,
+    "titolo": "Initial Temperature rise"
+  },
+  {
+    "idProva": 2,
+    "product type": "Switch",
+    "idNorma": 2,
+    "idCategoriaProva": 1,
+    "capitolo": 17.1,
+    "samples qty": 3,
+    "titolo": "Initial Temperature rise"
+  },
+  {
+    "idProva": 3,
+    "product type": "Switch",
+    "idNorma": 1,
+    "idCategoriaProva": 1,
+    "capitolo": 17.1,
+    "samples qty": 3,
+    "titolo": "Initial Temperature rise"
+  },
+  {
+    "idProva": 4,
+    "product type": "Socket",
+    "idNorma": 24,
+    "idCategoriaProva": 1,
+    "capitolo": 19.1,
+    "samples qty": 3,
+    "titolo": "Initial Temperature rise"
+  },
+  {
+    "idProva": 5,
+    "product type": "Socket",
+    "idNorma": 51,
+    "idCategoriaProva": 2,
+    "capitolo": "19.1.1",
+    "samples qty": 3,
+    "titolo": "Initial Temperature rise 4h"
+  },
+  {
+    "idProva": 6,
+    "product type": "Socket",
+    "idNorma": 20,
+    "idCategoriaProva": 1,
+    "capitolo": 19.1,
+    "samples qty": 3,
+    "titolo": "Initial Temperature rise"
+  },
+  {
+    "idProva": 7,
+    "product type": "Socket",
+    "idNorma": 21,
+    "idCategoriaProva": 1,
+    "capitolo": 19.1,
+    "samples qty": 3,
+    "titolo": "Initial Temperature rise"
+  },
+  {
+    "idProva": 8,
+    "product type": "Socket",
+    "idNorma": 14,
+    "idCategoriaProva": 1,
+    "capitolo": 19.1,
+    "samples qty": 3,
+    "titolo": "Initial Temperature rise"
+  },
+  {
+    "idProva": 9,
+    "product type": "Socket",
+    "idNorma": 15,
+    "idCategoriaProva": 1,
+    "capitolo": 19.1,
+    "samples qty": 3,
+    "titolo": "Initial Temperature rise"
+  },
+  {
+    "idProva": 10,
+    "product type": "Switch",
+    "idNorma": 4,
+    "idCategoriaProva": 12,
+    "capitolo": 24.1,
+    "samples qty": 1,
+    "titolo": "Glow wire"
+  },
+  {
+    "idProva": 11,
+    "product type": "Switch",
+    "idNorma": 2,
+    "idCategoriaProva": 12,
+    "capitolo": 24.1,
+    "samples qty": 1,
+    "titolo": "Glow wire"
+  },
+  {
+    "idProva": 12,
+    "product type": "Switch",
+    "idNorma": 1,
+    "idCategoriaProva": 12,
+    "capitolo": 24.1,
+    "samples qty": 1,
+    "titolo": "Glow wire"
+  },
+  {
+    "idProva": 13,
+    "product type": "Socket",
+    "idNorma": 24,
+    "idCategoriaProva": 12,
+    "capitolo": "28.1.1",
+    "samples qty": 1,
+    "titolo": "Glow wire"
+  },
+  {
+    "idProva": 14,
+    "product type": "Socket",
+    "idNorma": 51,
+    "idCategoriaProva": 12,
+    "capitolo": "28.1.1",
+    "samples qty": 1,
+    "titolo": "Glow wire"
+  },
+  {
+    "idProva": 15,
+    "product type": "Socket",
+    "idNorma": 20,
+    "idCategoriaProva": 12,
+    "capitolo": "28.1.1",
+    "samples qty": 1,
+    "titolo": "Glow wire"
+  },
+  {
+    "idProva": 16,
+    "product type": "Socket",
+    "idNorma": 21,
+    "idCategoriaProva": 12,
+    "capitolo": "28.1.1",
+    "samples qty": 1,
+    "titolo": "Glow wire"
+  },
+  {
+    "idProva": 17,
+    "product type": "Socket",
+    "idNorma": 14,
+    "idCategoriaProva": 12,
+    "capitolo": "28.1.1",
+    "samples qty": 1,
+    "titolo": "Glow wire"
+  },
+  {
+    "idProva": 18,
+    "product type": "Socket",
+    "idNorma": 15,
+    "idCategoriaProva": 12,
+    "capitolo": "28.1.1",
+    "samples qty": 1,
+    "titolo": "Glow wire"
+  },
+  {
+    "idProva": 19,
+    "product type": "Switch",
+    "idNorma": 4,
+    "idCategoriaProva": 9,
+    "capitolo": "12.3.12",
+    "samples qty": 3,
+    "titolo": "Bending test"
+  },
+  {
+    "idProva": 20,
+    "product type": "Switch",
+    "idNorma": 2,
+    "idCategoriaProva": 9,
+    "capitolo": "12.3.12",
+    "samples qty": 3,
+    "titolo": "Bending test"
+  },
+  {
+    "idProva": 21,
+    "product type": "Switch",
+    "idNorma": 1,
+    "idCategoriaProva": 9,
+    "capitolo": "12.3.12",
+    "samples qty": 3,
+    "titolo": "Bending test"
+  },
+  {
+    "idProva": 22,
+    "product type": "Socket",
+    "idNorma": 24,
+    "idCategoriaProva": 9,
+    "capitolo": "12.3.12",
+    "samples qty": 3,
+    "titolo": "Bending test"
+  },
+  {
+    "idProva": 23,
+    "product type": "Socket",
+    "idNorma": 51,
+    "idCategoriaProva": 9,
+    "capitolo": "12.3.12",
+    "samples qty": 3,
+    "titolo": "Bending test"
+  },
+  {
+    "idProva": 24,
+    "product type": "Socket",
+    "idNorma": 20,
+    "idCategoriaProva": 9,
+    "capitolo": "12.3.12",
+    "samples qty": 3,
+    "titolo": "Bending test"
+  },
+  {
+    "idProva": 25,
+    "product type": "Socket",
+    "idNorma": 21,
+    "idCategoriaProva": 9,
+    "capitolo": "12.3.12",
+    "samples qty": 3,
+    "titolo": "Bending test"
+  },
+  {
+    "idProva": 26,
+    "product type": "Socket",
+    "idNorma": 14,
+    "idCategoriaProva": 9,
+    "capitolo": "12.3.12",
+    "samples qty": 3,
+    "titolo": "Bending test"
+  },
+  {
+    "idProva": 27,
+    "product type": "Socket",
+    "idNorma": 15,
+    "idCategoriaProva": 9,
+    "capitolo": "12.3.12",
+    "samples qty": 3,
+    "titolo": "Bending test"
+  },
+  {
+    "idProva": 28,
+    "product type": "Switch",
+    "idNorma": 4,
+    "idCategoriaProva": 10,
+    "capitolo": "12.3.11",
+    "samples qty": 3,
+    "titolo": "Drop voltage test"
+  },
+  {
+    "idProva": 29,
+    "product type": "Switch",
+    "idNorma": 2,
+    "idCategoriaProva": 10,
+    "capitolo": "12.3.11",
+    "samples qty": 3,
+    "titolo": "Drop voltage test"
+  },
+  {
+    "idProva": 30,
+    "product type": "Switch",
+    "idNorma": 1,
+    "idCategoriaProva": 10,
+    "capitolo": "12.3.11",
+    "samples qty": 3,
+    "titolo": "Drop voltage test"
+  },
+  {
+    "idProva": 31,
+    "product type": "Socket",
+    "idNorma": 24,
+    "idCategoriaProva": 10,
+    "capitolo": "12.3.11",
+    "samples qty": 3,
+    "titolo": "Drop voltage test"
+  },
+  {
+    "idProva": 32,
+    "product type": "Socket",
+    "idNorma": 51,
+    "idCategoriaProva": 10,
+    "capitolo": "12.3.11",
+    "samples qty": 3,
+    "titolo": "Drop voltage test"
+  },
+  {
+    "idProva": 33,
+    "product type": "Socket",
+    "idNorma": 20,
+    "idCategoriaProva": 10,
+    "capitolo": "12.3.11",
+    "samples qty": 3,
+    "titolo": "Drop voltage test"
+  },
+  {
+    "idProva": 34,
+    "product type": "Socket",
+    "idNorma": 21,
+    "idCategoriaProva": 10,
+    "capitolo": "12.3.11",
+    "samples qty": 3,
+    "titolo": "Drop voltage test"
+  },
+  {
+    "idProva": 35,
+    "product type": "Socket",
+    "idNorma": 14,
+    "idCategoriaProva": 10,
+    "capitolo": "12.3.11",
+    "samples qty": 3,
+    "titolo": "Drop voltage test"
+  },
+  {
+    "idProva": 36,
+    "product type": "Socket",
+    "idNorma": 15,
+    "idCategoriaProva": 10,
+    "capitolo": "12.3.11",
+    "samples qty": 3,
+    "titolo": "Drop voltage test"
+  }
+]

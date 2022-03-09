@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Surname": "ALBERTI",
+    "Name": "Luigi",
+    "Email": "luigi.alberti@hager.com"
+  },
+  {
+    "Id": 2,
+    "Surname": "CERIANI",
+    "Name": "Paolo",
+    "Email": "paolo.ceriani@hager.com"
+  },
+  {
+    "Id": 3,
+    "Surname": "FAUSTINI",
+    "Name": "Federica",
+    "Email": "federica.faustini@hager.com"
+  },
+  {
+    "Id": 4,
+    "Surname": "RONCALLI",
+    "Name": "Matteo",
+    "Email": "matteo.roncalli@hager.com"
+  },
+  {
+    "Id": 5,
+    "Surname": "SANDHU",
+    "Name": "Malkit",
+    "Email": "malkit.sandhu@hager.com"
+  },
+  {
+    "Id": 6,
+    "Surname": "ZAMBELLI",
+    "Name": "Andrea",
+    "Email": "andrea.zambelli@hagergroup.com"
+  }
+]

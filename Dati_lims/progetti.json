@@ -1,0 +1,1115 @@
+[
+  {
+    "Id": 1,
+    "Year": 2020,
+    "Development Code": "PR-03050",
+    "Development Description": "Gallery for Modelec",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 2,
+    "Year": 2020,
+    "Development Code": "PR-02723",
+    "Development Description": "Gallery - Basic socket cost reductions",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 3,
+    "Year": 2020,
+    "Development Code": "PR-02807",
+    "Development Description": "Ecoline USB A+C",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 4,
+    "Year": 2020,
+    "Development Code": "PR-03231",
+    "Development Description": "NMP switch automate",
+    "Development Type": "External Services"
+  },
+  {
+    "Id": 5,
+    "Year": 2020,
+    "Development Code": "PR-03488",
+    "Development Description": "Universal WA Range",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 6,
+    "Year": 2020,
+    "Development Code": "PR-03093",
+    "Development Description": "Rainbow Mazzano site moving",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 7,
+    "Year": 2020,
+    "Development Code": "PR-03381",
+    "Development Description": "[Essensya2] Thermostat",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 8,
+    "Year": 2020,
+    "Development Code": "PR-03489",
+    "Development Description": "Cubyco (Athea) socket modif for VDE0620",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 9,
+    "Year": 2020,
+    "Development Code": "PR-03535",
+    "Development Description": "Push push switch for FLF enlargement",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 10,
+    "Year": 2020,
+    "Development Code": "PR-03464",
+    "Development Description": "Multisocket schuko face lift into Gallery",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 11,
+    "Year": 2020,
+    "Development Code": "PR-03465",
+    "Development Description": "Gallery antibacterical",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 12,
+    "Year": 2020,
+    "Development Code": "PR-03466",
+    "Development Description": "Gallery Multiple socket hidden",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 13,
+    "Year": 2020,
+    "Development Code": "PR-03487",
+    "Development Description": "Double intermediate switch Lumina&Berker",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 14,
+    "Year": 2020,
+    "Development Code": "PR-02120",
+    "Development Description": "BS EuroUS sockets Gallery",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 15,
+    "Year": 2020,
+    "Development Code": "PR-02814",
+    "Development Description": "Gallery Greece / Italian Style",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 16,
+    "Year": 2020,
+    "Development Code": "PR-03469",
+    "Development Description": "Gallery 20A and 40A isolator switch",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 17,
+    "Year": 2020,
+    "Development Code": "PR-03470",
+    "Development Description": "Gallery frames for Italian and BS types",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 18,
+    "Year": 2020,
+    "Development Code": "PR-03471",
+    "Development Description": "Gallery Balkan countries",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 19,
+    "Year": 2020,
+    "Development Code": "PR-03472",
+    "Development Description": "Gallery / Basic improvment range",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 20,
+    "Year": 2020,
+    "Development Code": "PR-03473",
+    "Development Description": "Gallery socket marking modif for CZ market",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 21,
+    "Year": 2020,
+    "Development Code": "PR-03494",
+    "Development Description": "Multisocket schuko face lift into Gallery",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 22,
+    "Year": 2021,
+    "Development Code": "PR-03556",
+    "Development Description": "VDI assembly line improvment (Gallery / Ess2)",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 23,
+    "Year": 2021,
+    "Development Code": "PR-03555",
+    "Development Description": "Industrialization strategy",
+    "Development Type": "External Services"
+  },
+  {
+    "Id": 24,
+    "Year": 2021,
+    "Development Code": "PR-03449",
+    "Development Description": "Ecoline 1-gang box",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 25,
+    "Year": 2021,
+    "Development Code": "PR-02846",
+    "Development Description": "Cubyko W1 low temperature behaviour",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 26,
+    "Year": 2021,
+    "Development Code": "PR-02128",
+    "Development Description": "Finesse – Allure – program – AS evolution",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 27,
+    "Year": 2021,
+    "Development Code": "PR-03422",
+    "Development Description": "ELBRUS vector pablo IP65 socket outdoor",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 28,
+    "Year": 2021,
+    "Development Code": "PR-03950",
+    "Development Description": "Essensya for Bubendorff",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 29,
+    "Year": 2021,
+    "Development Code": "PR-02785",
+    "Development Description": "Berker double socket outlet by Makel to replace POLO and INSTA",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 30,
+    "Year": 2021,
+    "Development Code": "PR-03632",
+    "Development Description": "Recertification Makel switch",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 31,
+    "Year": 2021,
+    "Development Code": "PR-03872",
+    "Development Description": "B.Better - Temperature rise issue",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 32,
+    "Year": 2021,
+    "Development Code": "PR-03873",
+    "Development Description": "B.Better - P/N contact optimization",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 33,
+    "Year": 2021,
+    "Development Code": "PR-04039",
+    "Development Description": "New Aenor logo",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 34,
+    "Year": 2021,
+    "Development Code": "PR-01975",
+    "Development Description": "Lumina evolution",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 35,
+    "Year": 2021,
+    "Development Code": "PR-03451",
+    "Development Description": "RKA adapter",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 36,
+    "Year": 2021,
+    "Development Code": "PR-04356",
+    "Development Description": "Evolution of the NFC 61-314 (French socket)",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 37,
+    "Year": 2021,
+    "Development Code": "PR-04336",
+    "Development Description": "New 2k mould for Cubyko/W1 - W2A0070/71",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 38,
+    "Year": 2021,
+    "Development Code": "PR-03595",
+    "Development Description": "USB Socket / Smarter living A+C",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 39,
+    "Year": 2021,
+    "Development Code": "PR-04602",
+    "Development Description": "Ecoline C-rail fixations improve",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 40,
+    "Year": 2021,
+    "Development Code": "PR-04604",
+    "Development Description": "Ecoline Contact Material 2nd Source",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 41,
+    "Year": 2021,
+    "Development Code": "PR-04578",
+    "Development Description": "UKCA marked USB Integro chargers",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 42,
+    "Year": 2021,
+    "Development Code": "PR-05155",
+    "Development Description": "New 2k mould for Cubyko/W1 - W2A0082",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 43,
+    "Year": 2021,
+    "Development Code": "PR-05156",
+    "Development Description": "New 2k mould for Cubyko/W1 - W2A0100",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 44,
+    "Year": 2021,
+    "Development Code": "PR-05151",
+    "Development Description": "New gluing system for Waterproof pad",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 45,
+    "Year": 2021,
+    "Development Code": "WA00587",
+    "Development Description": "Enclosures activities",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 46,
+    "Year": 2021,
+    "Development Code": "WA00588",
+    "Development Description": "Cable Management activities",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 47,
+    "Year": 2021,
+    "Development Code": "PR-03029",
+    "Development Description": "Janga KNX PB",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 48,
+    "Year": 2021,
+    "Development Code": "PR-05258",
+    "Development Description": "Gallery frames material improvements",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 49,
+    "Year": 2021,
+    "Development Code": "PR-03443",
+    "Development Description": "Easyblock Optimisation",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 50,
+    "Year": 2022,
+    "Development Code": "PR-05400",
+    "Development Description": "Gallery switch improvement",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 51,
+    "Year": 2022,
+    "Development Code": "PR-05399",
+    "Development Description": "Allure PB switch rocker issue",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 52,
+    "Year": 2022,
+    "Development Code": "PR-04174",
+    "Development Description": "New Gamma Future Offer",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 53,
+    "Year": 2022,
+    "Development Code": "PR-04057",
+    "Development Description": "EOL Systo in Greece",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 54,
+    "Year": 2021,
+    "Development Code": "PR-04217",
+    "Development Description": "WA Lumina Shutter evolution (mechanical lock)",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 55,
+    "Year": 2021,
+    "Development Code": "PR-03934",
+    "Development Description": "Insourcing painting process Hoffmann",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 56,
+    "Year": 2021,
+    "Development Code": "PR-03982",
+    "Development Description": "raw material replacement for 9026473000",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 57,
+    "Year": 2021,
+    "Development Code": "PR-04238",
+    "Development Description": "Migration Catia to Creo",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 58,
+    "Year": 2020,
+    "Development Code": "PR-03502",
+    "Development Description": "LUMINA - Double socket modular (cost reduction)",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 59,
+    "Year": 2020,
+    "Development Code": "PR-03552",
+    "Development Description": "Movement Schalksmühle - Ottfingen",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 60,
+    "Year": 2021,
+    "Development Code": "PR-04098",
+    "Development Description": "replacement 9504101391 to PA.6 nature + batch",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 61,
+    "Year": 2021,
+    "Development Code": "PR-03935",
+    "Development Description": "material replacement Technylstar S60G1 V30 Ral 7035 CF for 9024001001",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 62,
+    "Year": 2020,
+    "Development Code": "PR-03593",
+    "Development Description": "LUMINA - PIR",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 63,
+    "Year": 2021,
+    "Development Code": "PR-04234",
+    "Development Description": "patents/ design patents/ annual fees",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 64,
+    "Year": 2020,
+    "Development Code": "PR-03435",
+    "Development Description": "WA Lumina. RJ45 (cost reduction)",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 65,
+    "Year": 2021,
+    "Development Code": "PR-04448",
+    "Development Description": "UKCA Integro - further products with UKCA labeling needed",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 66,
+    "Year": 2021,
+    "Development Code": "PR-03981",
+    "Development Description": "Tool Relocation Dawedeit",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 67,
+    "Year": 2022,
+    "Development Code": "PR-04331",
+    "Development Description": "WAASYS VDI",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 68,
+    "Year": 2020,
+    "Development Code": "PR-03700",
+    "Development Description": "new molds series 1930",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 69,
+    "Year": 2021,
+    "Development Code": "PR-05390",
+    "Development Description": "Second Source S&Z Polybeutel",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 70,
+    "Year": 2022,
+    "Development Code": "PR-04344",
+    "Development Description": "Berker and Lumina FR socket + USB - 1 port C 7,5W",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 71,
+    "Year": 2021,
+    "Development Code": "PR-04244",
+    "Development Description": "Berker re-branding",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 72,
+    "Year": 2021,
+    "Development Code": "PR-04427",
+    "Development Description": "improvment of  slider gasket on W1 (back on track)",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 73,
+    "Year": 2020,
+    "Development Code": "PR-03525",
+    "Development Description": "VDE0620 std evolution Hager ranges",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 74,
+    "Year": 2022,
+    "Development Code": "PR-04333",
+    "Development Description": "WAASYS Design Parts (plates & rockers)",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 75,
+    "Year": 2020,
+    "Development Code": "PR-03591",
+    "Development Description": "LUMINA - USB Charger",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 76,
+    "Year": 2023,
+    "Development Code": "PR-04239",
+    "Development Description": "WA Athea new design for RJ45 and cable outlet",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 77,
+    "Year": 2021,
+    "Development Code": "PR-05201",
+    "Development Description": "Alternativ Material für PBT POCAN",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 78,
+    "Year": 2020,
+    "Development Code": "PR-03680",
+    "Development Description": "B.Better Schuko socket rivet rotating",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 79,
+    "Year": 2021,
+    "Development Code": "PR-04443",
+    "Development Description": "capacity increasing B.Better",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 80,
+    "Year": 2021,
+    "Development Code": "PR-03894",
+    "Development Description": "Berker R.1/R.3 Indian socket 6A & 16A",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 81,
+    "Year": 2021,
+    "Development Code": "PR-05200",
+    "Development Description": "W1D0408_00 / cutting tool",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 82,
+    "Year": 2020,
+    "Development Code": "PR-03503",
+    "Development Description": "LUMINA - Gallery adapter 45x45",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 83,
+    "Year": 2021,
+    "Development Code": "PR-05401",
+    "Development Description": "Systo socket certificates withdrawn",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 84,
+    "Year": 2021,
+    "Development Code": "PR-04430",
+    "Development Description": "Unterruptable emergency call",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 85,
+    "Year": 2021,
+    "Development Code": "PR-04447",
+    "Development Description": "NRPP - Change of Poly-Bags to half-recycled Poly-Bags",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 86,
+    "Year": 2021,
+    "Development Code": "PR-04107",
+    "Development Description": "new certification Logo AENOR",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 87,
+    "Year": 2021,
+    "Development Code": "PR-05216",
+    "Development Description": "NRPP - Change of Artikel 9007728000 (PE-Flachfolie 265 x 0,05 mm) of 2Pack to recycled material cont",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 88,
+    "Year": 2021,
+    "Development Code": "PR-05227",
+    "Development Description": "Validation alternative CuSn6 KME – B.Better earth contact",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 89,
+    "Year": 2020,
+    "Development Code": "PR-03519",
+    "Development Description": "UKCA declaration and marking",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 90,
+    "Year": 2021,
+    "Development Code": "PR-03843",
+    "Development Description": "material change 9504006092 to 9504006192",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 91,
+    "Year": 2022,
+    "Development Code": "PR-04184",
+    "Development Description": "WA SCHUKO New Surface Mounted Range",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 92,
+    "Year": 2021,
+    "Development Code": "PR-05255",
+    "Development Description": "Hotel Lefay -- Customer complaint 41407003",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 93,
+    "Year": 2021,
+    "Development Code": "PR-05153",
+    "Development Description": "Alternative sources KME/Kemper for CuNi3SiMg alloy",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 94,
+    "Year": 2021,
+    "Development Code": "PR-04527",
+    "Development Description": "Shared project Automation",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 95,
+    "Year": 2021,
+    "Development Code": "PR-00130",
+    "Development Description": "NG Switch CH  and combination with socket outlet",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 96,
+    "Year": 2022,
+    "Development Code": "PR-04328",
+    "Development Description": "WAASYS multisocket",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 97,
+    "Year": 2020,
+    "Development Code": "PR-03505",
+    "Development Description": "LUMINA - Double switch wit IP44 protection",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 98,
+    "Year": 2020,
+    "Development Code": "PR-03551",
+    "Development Description": "New Norm Denmark Socket Outlet",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 99,
+    "Year": 2021,
+    "Development Code": "PR-03554",
+    "Development Description": "Integro - Flush installation in trunking systems",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 100,
+    "Year": 2021,
+    "Development Code": "PR-03840",
+    "Development Description": "Oven connection box",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 101,
+    "Year": 2021,
+    "Development Code": "PR-04240",
+    "Development Description": "support activities BBS",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 102,
+    "Year": 2020,
+    "Development Code": "PR-03695",
+    "Development Description": "mold changeover to banana gate",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 103,
+    "Year": 2021,
+    "Development Code": "PR-03976",
+    "Development Description": "Switch rocker 4090_5836_new_combination_tool",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 104,
+    "Year": 2022,
+    "Development Code": "PR-04347",
+    "Development Description": "Waterproof Schuko with big terminal in Hager",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 105,
+    "Year": 2021,
+    "Development Code": "PR-03941",
+    "Development Description": "Switch recertification - tool maintenance",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 106,
+    "Year": 2021,
+    "Development Code": "PR-03931",
+    "Development Description": "rotary push button switch complaint 383803",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 107,
+    "Year": 2021,
+    "Development Code": "PR-04531",
+    "Development Description": "Alternativ Material for Shutter housing",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 108,
+    "Year": 2020,
+    "Development Code": "PR-03674",
+    "Development Description": "6 new molds thermoset socket Q.1 9024519000",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 109,
+    "Year": 2021,
+    "Development Code": "PR-04215",
+    "Development Description": "WA Lumina double push button",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 110,
+    "Year": 2020,
+    "Development Code": "PR-03697",
+    "Development Description": "automatic control of S.1 and Q.x center pieces + S.1 Rocker",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 111,
+    "Year": 2021,
+    "Development Code": "PR-03933",
+    "Development Description": "Standardization of thermoset paint systems",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 112,
+    "Year": 2021,
+    "Development Code": "PR-05389",
+    "Development Description": "Contour change 9007199050 In-Lay carton",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 113,
+    "Year": 2021,
+    "Development Code": "PR-03847",
+    "Development Description": "process change 3-way rocker for S.x, K.x, Q.x and R.x",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 114,
+    "Year": 2021,
+    "Development Code": "PR-03553",
+    "Development Description": "Integro - New Hinge Lid Generation (IP44/IP54)",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 115,
+    "Year": 2021,
+    "Development Code": "PR-03807",
+    "Development Description": "Validation for alternative material Celanese PA6",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 116,
+    "Year": 2021,
+    "Development Code": "PR-04557",
+    "Development Description": "additive manufacturing",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 117,
+    "Year": 2022,
+    "Development Code": "PR-03530",
+    "Development Description": "Schuko socket + USB  (min 15 W)",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 118,
+    "Year": 2021,
+    "Development Code": "PR-05143",
+    "Development Description": "USB Socket / Smarter living A+C - market launch FI,DK,IS,PT,ES,SE",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 119,
+    "Year": 2021,
+    "Development Code": "PR-05142",
+    "Development Description": "USB Socket / Smarter living A+C - market launch NL,AT,IT",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 120,
+    "Year": 2022,
+    "Development Code": "PR-04330",
+    "Development Description": "WAASYS Socket",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 121,
+    "Year": 2021,
+    "Development Code": "PR-04213",
+    "Development Description": "WA Lumina TV Low price level (cost reduction)",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 122,
+    "Year": 2021,
+    "Development Code": "PR-04609",
+    "Development Description": "Waterproof production transfer on automate",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 123,
+    "Year": 2021,
+    "Development Code": "PR-04100",
+    "Development Description": "replacement 9514019091 to PA.6 nature + batch",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 124,
+    "Year": 2021,
+    "Development Code": "PR-04243",
+    "Development Description": "SQL database",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 125,
+    "Year": 2020,
+    "Development Code": "PR-03499",
+    "Development Description": "LUMINA - Rotary dimmer for LED lamps",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 126,
+    "Year": 2021,
+    "Development Code": "PR-05254",
+    "Development Description": "Berker Wall boxes Q.x",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 127,
+    "Year": 2021,
+    "Development Code": "PR-04219",
+    "Development Description": "WA Lumina Double intermediate switch",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 128,
+    "Year": 2020,
+    "Development Code": "PR-03046",
+    "Development Description": "EnOcean for K.x and Q.x - Weberhaus",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 129,
+    "Year": 2021,
+    "Development Code": "PR-04638",
+    "Development Description": "EnOcean for K.x and Q.x - Berker",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 130,
+    "Year": 2021,
+    "Development Code": "PR-03854",
+    "Development Description": "risk analysis Sinteco socket assembly",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 131,
+    "Year": 2021,
+    "Development Code": "PR-04242",
+    "Development Description": "Berker CE declarations",
+    "Development Type": "Support Services"
+  },
+  {
+    "Id": 132,
+    "Year": 2021,
+    "Development Code": "PR-03938",
+    "Development Description": "automatical screwing process for surface mounted",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 133,
+    "Year": 2020,
+    "Development Code": "PR-03151",
+    "Development Description": "Socket outlet IP44 for Poland",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 134,
+    "Year": 2020,
+    "Development Code": "PR-03694",
+    "Development Description": "new mold for 9025275005",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 135,
+    "Year": 2021,
+    "Development Code": "PR-04429",
+    "Development Description": "Improvment of Networking products",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 136,
+    "Year": 2021,
+    "Development Code": "PR-04102",
+    "Development Description": "WA Integro Schuko 230V with LED",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 137,
+    "Year": 2022,
+    "Development Code": "PR-04329",
+    "Development Description": "WAASYS Switch",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 138,
+    "Year": 2021,
+    "Development Code": "PR-04104",
+    "Development Description": "Integro Chrom 6 - legal changes",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 139,
+    "Year": 2021,
+    "Development Code": "PR-03850",
+    "Development Description": "Relocate thread cutting to company MKM",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 140,
+    "Year": 2020,
+    "Development Code": "PR-03522",
+    "Development Description": "New Swiss norm for socket outlet (Integro)",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 141,
+    "Year": 2020,
+    "Development Code": "PR-03592",
+    "Development Description": "LUMINA - HDMI",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 142,
+    "Year": 2020,
+    "Development Code": "PR-03501",
+    "Development Description": "LUMINA - Shutter (electronic)",
+    "Development Type": "New Product"
+  },
+  {
+    "Id": 143,
+    "Year": 2020,
+    "Development Code": "PR-03222",
+    "Development Description": "Recertification Berker Switches in line with IEC60669-1",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 144,
+    "Year": 2020,
+    "Development Code": "PR-03672",
+    "Development Description": "Automatization and Standardization of C-Parts Packaging",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 145,
+    "Year": 2020,
+    "Development Code": "PR-03524",
+    "Development Description": "Spread of New Certifications worldwide",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 146,
+    "Year": 2021,
+    "Development Code": "PR-04416",
+    "Development Description": "Material mass 8000-17493 sourcing for Athea",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 147,
+    "Year": 2021,
+    "Development Code": "PR-04524",
+    "Development Description": "adjustment of drawing 9022907xxx_000",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 148,
+    "Year": 2022,
+    "Development Code": "PR-05526",
+    "Development Description": "New Threadcutting machine Stamping",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 149,
+    "Year": 2022,
+    "Development Code": "PR-05522",
+    "Development Description": "Batch Number for demolding fluid for Raw Material 9510702199 (GEBA)",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 150,
+    "Year": 2022,
+    "Development Code": "PR-05528",
+    "Development Description": "New Assembly Machine Child protection socket Berker",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 151,
+    "Year": 2022,
+    "Development Code": "PR-05527",
+    "Development Description": "6 neue Kassetten 9024216",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 152,
+    "Year": 2022,
+    "Development Code": "PR-05525",
+    "Development Description": "New Stamping machine 50t",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 153,
+    "Year": 2022,
+    "Development Code": "PR-05523",
+    "Development Description": "New Mould insert 9026969xxx",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 154,
+    "Year": 2022,
+    "Development Code": "PR-05524",
+    "Development Description": "NEW Tools 9024230",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 155,
+    "Year": 2022,
+    "Development Code": "PR-05537",
+    "Development Description": "Replacement of material 9515900592 - Ultraform N2320 Automotive",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 156,
+    "Year": 2022,
+    "Development Code": "PR-05543",
+    "Development Description": "Essensya claws process improvment",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 157,
+    "Year": 2022,
+    "Development Code": "PR-05555",
+    "Development Description": "tool maintenance intermediate switch",
+    "Development Type": "Improvement Process"
+  },
+  {
+    "Id": 158,
+    "Year": 2022,
+    "Development Code": "PR-05597",
+    "Development Description": "SNI label of Berker products for Indonesia",
+    "Development Type": "Improvement Product"
+  },
+  {
+    "Id": 159,
+    "Year": 2021,
+    "Development Code": "PR-05232",
+    "Development Description": "Gallery plates bi-adhesive foil qualifications",
+    "Development Type": "Improvement Process"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "idCategoriaProva": 1,
+    "idCategoriaRisorsa": 1,
+    "ore": "0,5",
+    "sample capacity": 1
+  },
+  {
+    "idCategoriaProva": 1,
+    "idCategoriaRisorsa": 2,
+    "ore": 1,
+    "sample capacity": 6
+  },
+  {
+    "idCategoriaProva": 1,
+    "idCategoriaRisorsa": 9,
+    "ore": 1,
+    "sample capacity": 6
+  },
+  {
+    "idCategoriaProva": 2,
+    "idCategoriaRisorsa": 1,
+    "ore": "0,5",
+    "sample capacity": 1
+  },
+  {
+    "idCategoriaProva": 2,
+    "idCategoriaRisorsa": 2,
+    "ore": 4,
+    "sample capacity": 6
+  },
+  {
+    "idCategoriaProva": 2,
+    "idCategoriaRisorsa": 9,
+    "ore": 4,
+    "sample capacity": 6
+  },
+  {
+    "idCategoriaProva": 12,
+    "idCategoriaRisorsa": 1,
+    "ore": "0,5",
+    "sample capacity": 1
+  },
+  {
+    "idCategoriaProva": 12,
+    "idCategoriaRisorsa": 10,
+    "ore": "0,5",
+    "sample capacity": 1
+  },
+  {
+    "idCategoriaProva": 9,
+    "idCategoriaRisorsa": 1,
+    "ore": 1,
+    "sample capacity": 1
+  },
+  {
+    "idCategoriaProva": 9,
+    "idCategoriaRisorsa": 2,
+    "ore": "0,5",
+    "sample capacity": 1
+  },
+  {
+    "idCategoriaProva": 10,
+    "idCategoriaRisorsa": 1,
+    "ore": "0,5",
+    "sample capacity": 1
+  },
+  {
+    "idCategoriaProva": 10,
+    "idCategoriaRisorsa": 2,
+    "ore": 195,
+    "sample capacity": 6
+  },
+  {
+    "idCategoriaProva": 10,
+    "idCategoriaRisorsa": 9,
+    "ore": 195,
+    "sample capacity": 6
+  }
+]
